@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning iOS Development ...
 - 💞️ I’m looking to collaborate on CX Stuff ...
 - 📫 How to reach me MSFT Teams...
-
-. 　　　。　　　　•　 　ﾟ　　。 　　.
-.　　　 　　.　　　　　。　　 。　.
-.　　 。　　　　　 ඞ 。 . 　　 • 　　　　•
-ﾟ　　 Mike was not An Impostor.　 。　.
-'　　　 1 Impostor remains 　 　　。
-ﾟ　　　.　　　. ,　　　　.　 .⠀⠀⠀⠀⠀⠀
+- 
+- . 　　　。　　　　•　 　ﾟ　　。 　　.
+- .　　　 　　.　　　　　。　　 。　.
+- .　　 。　　　　　 ඞ 。 . 　　 • 　　　　•
+- ﾟ　　 Mike was not An Impostor.　 。　.
+- '　　　 1 Impostor remains 　 　　。
+- ﾟ　　　.　　　. ,　　　　.　 .⠀⠀⠀
 
 <!---
 miguel-fajardo-globant/miguel-fajardo-globant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
